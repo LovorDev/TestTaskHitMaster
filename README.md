@@ -1,4 +1,4 @@
 # TestTaskHitMaster
 repository for unity test task game like Hit master 3D
-https://user-images.githubusercontent.com/50411034/136473903-48ef6f0b-b4e2-4c21-9195-8b67dcfdf649.mov
 
+![2021-10-08 01-51-23 (1) (1)](https://user-images.githubusercontent.com/50411034/136474681-e422a7b3-6a76-431a-84fa-0a2fbb25e562.gif)
