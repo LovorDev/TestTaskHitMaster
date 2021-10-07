@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c4f466d-0c68-4016-a7e5-983356228945" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/88F69663-E9A6-4D00-B209-1DD8DFD4D38F/ee/7a322ae1/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyScripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyScripts/Damageable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2B627E8F-B377-42D5-A1CF-4986AC5FE542/25/2125f752/Action`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Golf HyperCasual/Assets/Scripts/LevelScripts/Level.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DE1F8EF4-975B-4EAC-BEB0-ACCC1B22C9B0/8b/c4c3be74/DOTween.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A5A170A-AFDC-4E62-AE42-6239EAA657AF/3a/330933ab/NavMeshAgent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BulletPull.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ParticlesController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Shootable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/HelthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/Shootable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/IBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/IStateShoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/IStateIdle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/Damageble.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/Damagable.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletPull.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/ClickHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/RagdollController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletPull.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameStream.cs" />
+        <option value="$PROJECT_DIR$/Assets/ActionIsland.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/Shootable.cs" />
+        <option value="$PROJECT_DIR$/Assets/ModelAnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosionBarrell.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosionBarell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/Damageable.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosionBarrel.cs" />
+        <option value="$PROJECT_DIR$/Assets/ParticlesController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/WalkState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameStream.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameFunctions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/MainControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/ICharacterState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/ClickOnEnemyHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/StateShoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/StateIdle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/RunState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ExplosionBarrel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActionIslandsQueue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActionIsland.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ModelAnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScripts/RagdollController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1z8mDRA2tDz9WJ9ivOEuUIEReg6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c4f466d-0c68-4016-a7e5-983356228945" name="Default Changelist" comment="" />
+      <created>1633537971245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633537971245</updated>
+      <workItem from="1633537987088" duration="15959000" />
+      <workItem from="1633589275338" duration="29450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="630" y="340" key="LayersDialog" timestamp="1633543174847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="340" key="LayersDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1633543174847" />
+    <state x="733" y="221" key="RiderGenerateDialog" timestamp="1633638845140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="221" key="RiderGenerateDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1633638845140" />
+    <state x="233" y="165" width="1226" height="710" key="SettingsEditor" timestamp="1633543393850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="233" y="165" width="1226" height="710" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1633543393850" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1633539287872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1633539287872" />
+  </component>
+</project>

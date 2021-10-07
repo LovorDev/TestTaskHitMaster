@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vasil\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vasil\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TestTask.-607736112.00" t="ExcludeRecursive" />
+    <e p="V:\UnityProject\TestTask" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModuleEPOOutline.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Polygonal Particles" t="Include">
+          <e p="Assets" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="GradientBackgroundShader.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BulletPull.cs" t="Include" />
+          <e p="CharacterScripts" t="Include">
+            <e p="Bullet.cs" t="Include" />
+            <e p="ClickOnEnemyHandler.cs" t="Include" />
+            <e p="ICharacterState.cs" t="Include" />
+            <e p="MainControl.cs" t="Include" />
+            <e p="RunState.cs" t="Include" />
+            <e p="Shootable.cs" t="Include" />
+            <e p="StateIdle.cs" t="Include" />
+            <e p="StateShoot.cs" t="Include" />
+          </e>
+          <e p="EnemyScripts" t="Include">
+            <e p="Damageable.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="HealthBar.cs" t="Include" />
+            <e p="ParticlesController.cs" t="Include" />
+            <e p="RagdollController.cs" t="Include" />
+          </e>
+          <e p="ExplosionBarrel.cs" t="Include" />
+          <e p="GameFunctions.cs" t="Include" />
+          <e p="ModelAnimationController.cs" t="Include" />
+          <e p="ShootingSpotsScript" t="Include">
+            <e p="ActionIsland.cs" t="Include" />
+            <e p="ActionIslandsQueue.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="TestTask.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
